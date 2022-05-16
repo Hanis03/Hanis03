@@ -1,6 +1,5 @@
 # Hi there 👋
-
-![Hanis03](https://janvitek.ga/img/me.png)
+![Hanis03](https://janvitek.ga/img/logo.png)
 
 ### Some things about me:
 
