@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Hanis03](https://janvitek.ga/)
+[Hanis03](https://janvitek.ga/)
 
 ### Some things about me:
 
