@@ -1,16 +1,12 @@
-# Hi there 👋
-![Hanis03](https://itvitek.eu/img/logo.png)
+<h1 align="center">Hi 👋, I'm Hanis03</h1>
+<h3 align="center">A developer from Czech Republic.</h3>
 
 ### Some things about me:
 
-  :arrow_forward: I’m currently working on [Projects :)](https://itvitek.eu/login)
-  :arrow_forward: I’m currently learning **JavaScript/PHP/Node**
-  :arrow_forward: How to reach me: **Hanis03#2356** (Discord)
-  :globe_with_meridians: My website: [www.itvitek.eu](https://itvitek.eu)
+-  :arrow_forward: I’m currently working on [Projects :)](https://itvitek.eu/login)
+-  :arrow_forward: I’m currently learning **JavaScript/PHP/Node**
+-  :globe_with_meridians: My website: [www.itvitek.eu](https://itvitek.eu)
 
-
-<h1 align="center">Hi 👋, I'm Hanis03</h1>
-<h3 align="center">A developer from Czech Republic.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
